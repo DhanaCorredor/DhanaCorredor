@@ -39,4 +39,4 @@ Ahora estoy evolucionando hacia el mundo tech, combinando **marketing + tecnolog
 
 ---
 
-> Marketing por herencia, código por pasión. Construyendo la siguiente versión de mí misma. 💗
+> Project Management with a Marketing Mindset💗
