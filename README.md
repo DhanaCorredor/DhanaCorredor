@@ -14,6 +14,13 @@ Ahora estoy evolucionando hacia el mundo tech, combinando **marketing + tecnolog
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhanacorredor&theme=radical&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhanacorredor&theme=radical&hide_border=true&background_color=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanacorredor&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)
+
+---
+
 ## 📊 Marketing, Data & Automation (My Core)
 
 ### 🛠️ CMS & Design
