@@ -10,15 +10,25 @@ Perfil híbrido: domino la estrategia de marketing, los datos y la automatizaci�
 
 ---
 
-## 🚀 Mis proyectos
+## 💻 Proyectos de desarrollo
 
 | Proyecto | De qué va | Stack |
 | :--- | :--- | :--- |
 | 💅 **[Lorena Velásquez Studio](https://lorena-velasquez-studio.vercel.app)** | Web de estudio de manicura — **proyecto real en producción** | React · TypeScript · Vite · Tailwind |
 | 🩺 **Asisty.app** *(en construcción)* | Landing y agenda automática para clínicas | Next.js · TypeScript · Tailwind |
 | 🎬 **[Moviefy](https://github.com/DhanaCorredor/Moviefy)** | Buscador de películas con la API de TMDB | React · API REST |
+| 🦠 **[Covid-Tracker](https://github.com/DhanaCorredor/Covid-Tracker)** | Dashboard con datos de COVID en tiempo real desde una API pública | React · API REST |
 | 🎯 **[Tiro al Blanco](https://tiro-al-blanco-ten.vercel.app)** | Juego web con niveles, ranking y APIs en vivo | JavaScript vanilla · APIs |
 | 🛍️ **[Google Store](https://github.com/DhanaCorredor/Google_Store_Dynamic)** | Maquetación responsive pixel-perfect desde Figma | HTML5 · CSS3 · JS |
+
+---
+
+## 📈 Proyectos de marketing & gestión
+
+| Proyecto | De qué va | Foco |
+| :--- | :--- | :--- |
+| 🎙️ **Cultura Emprende Radio** | Programa propio en Radio Intereconomía 95.1 FM (+4 años): invitados (CEOs y fundadores), producción editorial y presencia digital | Project Mgmt · WordPress · RRSS · Newsletter |
+| 🥫 **Viandas de Salamanca** *(Future Retail)* | Relanzamiento de marca y nuevo e-commerce gourmet: coordinación cross-functional, estrategia de contenidos y consistencia visual | Branding · Paid Media · HubSpot |
 
 ---
 
