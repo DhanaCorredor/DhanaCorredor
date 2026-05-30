@@ -18,7 +18,7 @@ Perfil híbrido: domino la estrategia de marketing, los datos y la automatizaci�
 | 🩺 **Asisty.app** *(en construcción)* | Landing y agenda automática para clínicas | Next.js · TypeScript · Tailwind |
 | 🎬 **[Moviefy](https://github.com/DhanaCorredor/Moviefy)** | Buscador de películas con la API de TMDB | React · API REST |
 | 🦠 **[Covid-Tracker](https://github.com/DhanaCorredor/Covid-Tracker)** | Dashboard con datos de COVID en tiempo real desde una API pública | React · API REST |
-| 🎯 **[Tiro al Blanco](https://tiro-al-blanco-ten.vercel.app)** | Juego web con niveles, ranking y APIs en vivo | JavaScript vanilla · APIs |
+| 🎯 **[Tiro al Blanco](https://tiro-al-blanco-ten.vercel.app)** *(proyecto en equipo)* | Juego web con niveles, ranking y APIs en vivo | JavaScript vanilla · APIs |
 | 🛍️ **[Google Store](https://github.com/DhanaCorredor/Google_Store_Dynamic)** | Maquetación responsive pixel-perfect desde Figma | HTML5 · CSS3 · JS |
 
 ---
