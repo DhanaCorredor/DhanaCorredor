@@ -27,8 +27,8 @@ Perfil híbrido: domino la estrategia de marketing, los datos y la automatizaci�
 
 | Proyecto | De qué va | Foco |
 | :--- | :--- | :--- |
-| 🎙️ **Cultura Emprende Radio** | Programa propio en Radio Intereconomía 95.1 FM (+4 años): invitados (CEOs y fundadores), producción editorial y presencia digital | Project Mgmt · WordPress · RRSS · Newsletter |
-| 🥫 **Viandas de Salamanca** *(Future Retail)* | Relanzamiento de marca y nuevo e-commerce gourmet: coordinación cross-functional, estrategia de contenidos y consistencia visual | Branding · Paid Media · HubSpot |
+| 🎙️ **[Cultura Emprende Radio](https://www.culturaemprende.com/)** | Programa propio en Radio Intereconomía 95.1 FM (+4 años): invitados (CEOs y fundadores), producción editorial y presencia digital | Project Mgmt · WordPress · RRSS · Newsletter |
+| 🥫 **[Viandas de Salamanca](https://viandasstores.com/es/)** *(Future Retail)* | Relanzamiento de marca y nuevo e-commerce gourmet: coordinación cross-functional, estrategia de contenidos y consistencia visual | Branding · Paid Media · HubSpot |
 
 ---
 
