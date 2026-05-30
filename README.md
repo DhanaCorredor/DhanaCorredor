@@ -58,12 +58,6 @@ Perfil híbrido: domino la estrategia de marketing, los datos y la automatizaci�
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhanacorredor&theme=radical&hide_border=true&count_private=true&bg_color=00000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanacorredor&theme=radical&hide_border=true&layout=compact&bg_color=00000000)
-
----
-
 ## 📫 Hablemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanacorredor/)
 [![Email](https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanacorredor@gmail.com)
